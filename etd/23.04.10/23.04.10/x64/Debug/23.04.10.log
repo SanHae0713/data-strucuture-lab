@@ -1,2 +1,4 @@
 ﻿  Array_class_example.cpp
-  23.04.10.vcxproj -> C:\Users\강산해\Desktop\data-structure-lab\23.04.10\x64\Debug\23.04.10.exe
+C:\Users\강산해\Desktop\data-structure-lab\etd\23.04.10\23.04.10\Array_class_example.cpp(12,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\강산해\Desktop\data-structure-lab\etd\23.04.10\x64\Debug\23.04.10.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
