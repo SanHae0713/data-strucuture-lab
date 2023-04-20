@@ -1,0 +1,8 @@
+﻿  car.h
+  sports_car.h
+C:\Users\강산해\Desktop\data-structure-lab\mid_term_exercise\mid_term_exercise\sports_car.h(14,8): error C2601: 'speedUp': 지역 함수 정의가 잘못되었습니다.
+C:\Users\강산해\Desktop\data-structure-lab\mid_term_exercise\mid_term_exercise\sports_car.h(15,8): error C2065: 'bTurbo': 선언되지 않은 식별자입니다.
+C:\Users\강산해\Desktop\data-structure-lab\mid_term_exercise\mid_term_exercise\sports_car.h(16,5): error C2065: 'speed': 선언되지 않은 식별자입니다.
+C:\Users\강산해\Desktop\data-structure-lab\mid_term_exercise\mid_term_exercise\sports_car.h(18,10): error C2352: 'Car::speedUp': 비정적 멤버 함수를 호출하려면 개체가 필요합니다.
+C:\Users\강산해\Desktop\data-structure-lab\mid_term_exercise\mid_term_exercise\car.h(28,7): message : 'Car::speedUp' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
